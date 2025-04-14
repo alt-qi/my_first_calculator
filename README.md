@@ -1,2 +1,2 @@
-# my_first_calculator
+# my-first-calculator
 My first calculator writen in Python!
